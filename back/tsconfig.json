@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "target": "es2020", // Soporta características modernas de JavaScript
+      "module": "commonjs", // Compatible con Node.js
+      "strict": true, // Activar verificaciones estrictas de TypeScript
+      "esModuleInterop": true // Permite interoperabilidad con módulos ES
+    }
+  }
